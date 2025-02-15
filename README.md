@@ -19,7 +19,7 @@ This analysis aims to answer critical business questions regarding content strat
 5. How can the channel improve subscriber conversion?
 
 ## Datasets 📑
-Data was collected from the youtube channel webpage using insant data scraper, then proceeds to the cleaning of the data to remove columns not needed and other irrelevant scraped data. Two tables was obtained via the channel webpage (The short and the main videos); uing the ETL data processes. 
+Data was collected from the youtube channel webpage using instant data scraper, then proceeds to the cleaning of the data to remove columns not needed and other irrelevant scraped data. Two tables was obtained via the channel webpage (The short and the main videos); using the ETL data processes. 
 
 1. The youtube tutorial videos data consist of the following columns after cleaning:
 - The Timestamp
